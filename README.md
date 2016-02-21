@@ -68,19 +68,19 @@ This project is available on Maven Central. To add it to your project simply add
     <dependency>
       <groupId>io.dropwizard.modules</groupId>
       <artifactId>dropwizard-java8</artifactId>
-      <version>0.9.0-1</version>
+      <version>0.9.2</version>
     </dependency>
 
     <dependency>
       <groupId>io.dropwizard.modules</groupId>
       <artifactId>dropwizard-java8-auth</artifactId>
-      <version>0.9.0-1</version>
+      <version>0.9.2</version>
     </dependency>
 
     <dependency>
       <groupId>io.dropwizard.modules</groupId>
       <artifactId>dropwizard-java8-jdbi</artifactId>
-      <version>0.9.0-1</version>
+      <version>0.9.2</version>
     </dependency>
 
 When using JSR-310 Dates with Hibernate, [Jadira UserType Extend](http://jadira.sourceforge.net/usertype.extended/) needs to be added:
